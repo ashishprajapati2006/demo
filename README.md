@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-Author - Ashish Prajapati
+Author - Ashish Prajapati (study)
